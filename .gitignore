@@ -1,0 +1,6 @@
+db/data
+db/plugins
+db/logs
+
+.DS_Store/
+
